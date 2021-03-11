@@ -38,7 +38,7 @@
     },
 
     "title3": {
-      "color": "#E9C062",
+      "color": "#DDE9C062",
       "size": 20,
       "font": "AvenirNext-DemiBold"
     },
@@ -192,7 +192,7 @@
       "regex": "(==)([^:]{1,})(==)",
       "matchPosition": 2,
       "isRevealOnCursorRange": true,
-      "backgroundColor": "#60E9C062"
+      "backgroundColor": "#20E9C062"
     },
 
     "highlighted-left-colon": {
